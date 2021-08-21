@@ -7,7 +7,7 @@ This project is done using google sheets
 	Another sheet has been attached with user-wise demographics: Gender & State (self-declared by each user)
 
 # Trends and insights
-1. the top-5 states in terms of Revenue offered in the Month of Apri are
+1. the top-5 states in terms of Revenue offered in the Month of April are
 
 
  ![image](https://user-images.githubusercontent.com/81958811/130254181-74d8ba55-09d5-467d-a1d5-3b13482b591a.png)
